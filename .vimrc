@@ -9,6 +9,7 @@ Bundle 'VundleVim/Vundle.vim'
 Bundle 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 Bundle 'scrooloose/nerdtree'
 Bundle 'kien/ctrlp.vim'
+Bundle 'http://github.com/bronson/vim-trailing-whitespace'
 "Bundle 'Valloric/YouCompleteMe'
 call vundle#end()
 
