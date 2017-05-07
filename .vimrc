@@ -12,6 +12,7 @@ Bundle 'kien/ctrlp.vim'
 Bundle 'http://github.com/bronson/vim-trailing-whitespace'
 Bundle 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 "Bundle 'Valloric/YouCompleteMe'
+Bundle 'easymotion/vim-easymotion'
 call vundle#end()
 
 syntax on
